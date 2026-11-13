@@ -1,0 +1,8 @@
+strContent = <b>Mod được tạo bởi </b> <color=#FFD700><b>DHAMGZ</b></color>
+hasCancelBtn = true
+onConfirm = https://www.youtube.com/@DhamgzThichMod
+onCancel = https://modskindhamgz.netlify.app
+confirmStr = Youtube
+cancelStr = Web Mod DHAMGZ
+titleStr = DHAMGZ THÍCH MOD
+isShowCloseBtn = true
